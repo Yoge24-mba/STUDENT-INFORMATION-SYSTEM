@@ -1,9 +1,10 @@
 # STUDENT-INFORMATION-SYSTEM
 
 🎓 Student Information System – Excel Dashboard Project
+
 📌 Project Overview
 
-This project presents a Student Information System Dashboard developed using Microsoft Excel. The system is designed to manage, organize, and analyze student data efficiently, enabling better academic monitoring and administrative decision-making.
+This project presents a Student Information System Dashboard developed using Microsoft Excel. The system is designed to manage, organize, and analyze student data efficiently, enabling better administrative decision-making.
 
 The dashboard transforms raw student records into structured reports and visual insights.
 
@@ -11,13 +12,11 @@ The dashboard transforms raw student records into structured reports and visual 
 
 Maintain centralized Student Records
 
-Track Academic Performance
+Monitor Details
 
-Monitor Attendance Details
+Analyze Department wise record
 
-Analyze Subject-wise Marks
-
-Evaluate Grade Distribution
+evaluate town wise student data
 
 Generate Summary Reports for Management
 
@@ -25,13 +24,13 @@ Generate Summary Reports for Management
 
 📌 Student Profile Management
 
-📈 Subject-wise Performance Analysis
+📈 Town-wise  Analysis
 
-📊 Grade Distribution Charts
+📊 Distribution Charts
 
-🏫 Class-wise Student Summary
+🏫 Gender-wise Student visualization
 
-📅 Attendance Tracking
+📅 Age Classification
 
 🔎 Search & Filter Options for Student Details
 
@@ -49,15 +48,13 @@ Conditional Formatting
 
 Data Validation
 
-Automated Calculations (Total, Average, Grade)
-
 Dashboard Design Principles
 
 📈 Business / Academic Value
 
 This system helps:
 
-Teachers monitor student progress
+Teachers monitor student details and background
 
 Administrators maintain structured records
 
