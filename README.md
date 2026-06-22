@@ -1,5 +1,4 @@
 # STUDENT-INFORMATION-SYSTEM
-Here is a professional GitHub description for your Student Information System – Excel Project:
 
 🎓 Student Information System – Excel Dashboard Project
 📌 Project Overview
